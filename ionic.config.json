@@ -1,5 +1,7 @@
 {
   "name": "problemer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
